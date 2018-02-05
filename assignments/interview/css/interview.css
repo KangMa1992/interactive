@@ -1,0 +1,8 @@
+.artist_img{
+    width:50%;
+    min-width: 320px;
+    max-width: 540px;
+}
+.Q{
+    font-weight: bold;
+}

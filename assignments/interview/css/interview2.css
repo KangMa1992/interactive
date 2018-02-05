@@ -1,0 +1,54 @@
+body{
+    margin-right: 10em;
+}
+.outlined{
+    border:1px black dotted;
+    margin-bottom: 1em;
+}
+.search{
+    position: fixed;
+    right: 1em;
+    top:1em;
+}
+li{
+    list-style: none;
+}
+.tags li{
+    display: inline;
+    padding: 2px;
+}
+ul{padding: 0;}
+.contents{
+    position: fixed;
+    right:0;
+    top:3em;
+}
+.img_container{
+    width: 30%;
+    float:left;
+    margin-right: 2em;
+}
+.flex_box{
+    display:box;
+    width: 100%;
+}
+.clear{clear: both;}
+.info{
+    padding-left: 16px;
+    -moz-box-flex:1.0; /* Firefox */
+    -webkit-box-flex:1.0; /* Safari 和 Chrome */
+    box-flex:1.0;
+}
+.artist_img{
+    width: 100%;
+}
+.conversation, .some_things{
+    clear: both;
+    width:100%;
+}
+.header{
+    background-color: #ffddee;
+}
+.Q{
+    font-weight: bold
+}

@@ -1,0 +1,88 @@
+body{
+    margin-right: 20%;
+    font-size: 16px;
+}
+p{
+    margin-top: 0;
+    line-height: 125%;
+}
+h1{
+    color: blue;
+    font-size: 2em;
+    line-height: 125%;
+}
+a:hover{
+    color:red;
+}
+a{
+    color:blue
+}
+
+.contents>li{
+    margin-right: 1em;
+}
+h2{
+    font-size: 2em;
+    line-height: 125%;
+}
+.artist_img{
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+.flex_box{
+    display:-moz-box; /* Firefox */
+    display:-webkit-box; /* Safari and Chrome */
+    display:box;
+}
+.img_container{
+    width:50%;
+    min-width: 320px;
+}
+.info{
+    padding-left: 16px;
+    -moz-box-flex:1.0; /* Firefox */
+    -webkit-box-flex:1.0; /* Safari 和 Chrome */
+    box-flex:1.0;
+}
+
+li{
+    list-style: none;
+    line-height: 130%;
+}
+ul{
+    padding: 0;
+}
+h1{
+    margin: 0;
+}
+h2{
+    margin:0;
+}
+h3{
+    margin: 0;
+}
+ul{
+    margin: 0
+}
+.Q{
+    font-weight: bold;
+}
+.contents{
+    margin:8px;
+    width:16%;
+    position:fixed;
+    top:0;
+    right:0;
+    border-bottom: 1px solid black;
+}
+.prelude, .conversation{
+    padding-bottom: 1em;
+    border-bottom: 1px solid black;
+}
+.prelude{
+        border-top: 1px solid black;
+}
+.conversation p{
+    max-width: 700px; 
+}
