@@ -1,0 +1,209 @@
+.canvas{
+    width: 900px;
+    height: 556px;
+    margin: 100px auto;
+    background: rgb(78, 147, 83);
+    Position: relative;
+}
+.object{
+    position:absolute;
+}
+#orange{
+    height: 8em;
+    width: 8em;
+    border-radius: 50%;
+    bottom: 11em;
+    right:17em;
+    background: orange;   
+}
+#kiwi{
+    height: 3.75em;
+    width: 5em;
+    border-radius: 50%;
+    bottom:7em;
+    right:8em;
+    background:#555500;
+}
+#candle{
+    top:3em;
+    left: 4em;
+    height: 8em;
+    width: 5em;
+    border: 1px solid white;
+}
+#flame{
+    left:2em;
+    width:1em;
+    height:2em;
+    background: yellow;
+    border-radius: 50%;
+    z-index: 1;
+}
+#wax{
+    width:100%;
+    height:6em;
+    bottom: 0;
+    background: red;
+}
+#waxtop{
+    height:1em;
+    width: 100%;
+    top:-0.5em;
+    background: #ff4444;
+    border-radius: 50%;
+}
+#top{
+    border-bottom: 100px solid #ccffee;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
+#middle{
+    width: 200px;
+    height: 40px;
+    background: #aabbcc;
+}
+#bottom{
+    border-top: 100px solid #556677;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
+#vase{
+    top:4em;
+    left:16em;
+}
+#rose{
+    width:43em;
+    height:3em;
+    transform:rotate(9deg);
+    bottom:9em;
+    left:6em;
+}
+#flower{    
+    background: #b12121;
+    left: 1em;
+    height: 100%;
+    border-radius: 36%;
+    width: 3em;
+    z-index: 3;
+}
+#sleeve{    
+    bottom: -2em;
+    border-top: 5em solid rgba(255,255,255, 0.2);
+    border-right: 37em solid transparent;
+    border-left: 3em solid transparent;
+    height: 0;
+    width: 6em;
+    left: -2em;
+    transform: rotate(5deg);}
+#stem{
+    height: 0.65em;
+    width: 45em;
+    background: green;
+    bottom: 30%;
+    left: 2em;
+    transform: rotate(1deg);
+}
+
+.canvas_2{
+    width: 900px;
+    height: 556px;
+    margin: 100px auto;
+    background: rgb(78, 147, 83);
+    Position: relative;
+}
+#lamp{
+    z-index: 999;
+    top:17em;
+    left:8em;
+    width:10em;
+    height:9em;
+}
+#lamp_body{
+    top:0;
+    left:0;
+    width:100%;
+    height:8em;
+    border-radius: 4em;
+    background: #ffdd99;
+    z-index: 1;
+}
+#lamp_foot{
+    width: 4em;
+    height:1.5em;
+    background: #ffffff;
+    bottom: 0;
+    left:3em;
+}
+#orange2{
+    height: 8em;
+    width: 8em;
+    border-radius: 50%;
+    bottom: 11em;
+    right:17em;
+    background: orange;   
+}
+#kiwi2{
+    height: 3.75em;
+    width: 5em;
+    border-radius: 50%;
+    bottom:7em;
+    right:8em;
+    background:#555500;
+}
+#rose2{
+    width:43em;
+    height:3em;
+    transform:rotate(29deg);
+    top:19em;
+    left:1em;
+}
+#head_box{
+    left: 15em;
+    top:16em;
+    width:10em;
+    height:10em;
+    z-index: 888;
+    
+}
+#front{
+    width: 100%;
+    height: 100%;
+}
+#back{
+    width: 100%;
+    height: 100%;
+    background: #aa9966;
+    top:-25%;
+}
+#left{
+    left: 0;
+    bottom: 0;
+    background: #997744;
+    width:50%;
+    Height:100%;
+    transform: skewY(45deg);
+}
+#right{
+    right:-50%;
+    bottom:0;
+    background: #997744;
+    width:50%;
+    height:100%;
+    transform: skewY(45deg);
+}
+#front{
+    width:100%;
+    height:100%;
+    background: #bbaa77;
+    bottom:-25%;
+    right:-50%;
+    z-index: 10;
+}
+
+
+
+
