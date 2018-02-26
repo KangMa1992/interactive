@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Exercise</title>
+    <script src="../fictional_place/libs/jquery-3.3.1.js"></script>
+</head>
+<body>
+    Content
+    <script type="text/javascript">
+        $(document).ready(function(){
+            console.log("Hello, JQuery");
+            var size = Math.floor(Math.random()*72) + 1;
+            var units = "px";
+            var fontsize = size + units;
+            console.log(fontsize);
+            $("body").css("font-size", fontsize);
+    
+            
+            
+        });
+//        var name="Kang"
+//        var year="2020"
+//        var introduction="Hi, I’m " + name +"! I graduate in " + year + "!";
+//        console.log(introduction);
+//        function hello(person){
+//            var greeting = "Hello! " + person + "! It's ";
+//            var date = new Date();
+//            alert(greeting + date);
+//        };
+//        hello("Kang");
+//        hello("KAng");
+//        hello("KANG");
+    </script>
+</body>
+</html>

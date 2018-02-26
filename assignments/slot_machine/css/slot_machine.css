@@ -1,0 +1,204 @@
+@charset:utf-8;
+html{
+    width:100%;
+    height:100%;
+}
+body{
+    width:100%;
+    height:100%;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(135deg, #cdd0c0 0%, #dde1cc 100%);
+    line-height: 0;
+}
+#frame{
+    position: relative;
+    width:100%;
+    height:100%;
+}
+#machine{
+    position:absolute;
+    left: 0;
+    top:0;    
+    width: auto;
+    height:auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+#machine_bg{
+    position:absolute;
+    left:0;
+    top:0;
+    width: auto;
+    height:auto;
+    max-width: 100%;
+    max-height: 100%;
+    z-index: -2;
+}
+#machine_rolls{
+    position:absolute;
+    left: 0;
+    top:0;
+    width: auto;
+    height:auto;
+    max-width: 100%;
+    max-height: 100%;
+    z-index: -1;
+}
+
+#roll_1{
+    position: absolute;
+    left: 20.5%;
+    top: 22.4%;
+    width: 11.55%;
+    height: 50.50%;
+    overflow: hidden;
+}
+#roll_2{
+    position: absolute;
+    left: 32.75%;
+    top: 22.4%;
+    width: 11.55%;
+    height: 50.50%;
+    overflow: hidden;
+}
+#roll_3{
+    position: absolute;
+    left: 44.8%;
+    top: 22.4%;
+    width: 11.55%;
+    height: 50.50%;
+    overflow: hidden;
+}
+.roll_images{
+    width:100%;
+    height:auto;
+}
+#triger_box{ 
+    position: absolute;
+    left:58.38%;
+    top:18.14%;
+    width:8.16%;
+    height:60%;
+}
+#trigger{
+    position: absolute;
+    left:0%;
+    top:0%;
+    width:100%;
+    height: auto;
+}
+#switch{
+    transition:top 0.5s ease;
+    position: absolute;
+    left: 65.3%;
+    top: 45.5%;
+    width: 4%;
+    height: auto;
+    z-index: -1;
+}
+#click_detector{
+    position: absolute;
+    left: 65.3%;
+    top: 45.8%;
+    width: 4%;
+    height: 10%;
+    z-index: 8;
+    cursor: pointer;
+}
+.transition{
+    transition: all 1s ease;
+}
+@keyframes rollmove
+{
+from {top:0%;}
+to {top:-300%;}
+}
+@keyframes rollmove1
+{from{top:-200}
+to {top:-300%;}
+}
+@keyframes rollmove2
+{from{top:0}
+to {top:-100%;}
+}
+@keyframes rollmove3
+{from{top:-100%}
+to {top:-200%;}
+}
+.container{
+    position:absolute;
+}
+.animation_1{
+    animation-name: rollmove;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+    animation-duration:3s;
+}
+.stop1{
+    animation-name: rollmove1;
+    animation-iteration-count:1;
+    animation-timing-function: ease-out;
+    animation-duration:0.5s;
+    animation-fill-mode: forwards;
+}
+.stop2{
+    animation-name: rollmove2;
+    animation-iteration-count:1;
+    animation-timing-function: ease-out;
+    animation-duration:0.5s;
+    animation-fill-mode: forwards;
+}
+.stop3{
+    animation-name: rollmove3;
+    animation-iteration-count:1;
+    animation-timing-function: ease-out;
+    animation-duration:0.5s;
+    animation-fill-mode: forwards;
+}
+.animation_2{
+    animation-name: rollmove;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+    animation-duration:2s;
+}
+.animation_3{
+    animation-name: rollmove;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+    animation-duration:4s;
+}
+.paused{
+animation-play-state:paused;
+}
+.r1{ 
+    top:-100%;
+}
+.r2{
+    top:-200%;
+}
+.r3{
+    top:-300%;
+}
+#switch.controllable{
+    top:39.3%;
+}
+/*
+.loop_anim{
+    position:absolute;
+    width:100px;
+    height:50%;
+    left:0;
+    top:50%;
+    background-color: red;
+}
+.loop_stopper{
+    position:fixed;
+    width:100px;
+    height:100px;
+    right:0;
+    top:0;
+    background-color: red;
+}
+*/
+
