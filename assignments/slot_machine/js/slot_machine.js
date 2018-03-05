@@ -90,18 +90,22 @@ function loop3(){
                     console.log("random3");
                     console.log(roll3roundnumber + "column3应该转的圈数");
                     console.log(looped3 + "column3已经转的圈数");
+                    console.log(roll3resultnumber+"检查");
                     if(looped3 > roll3roundnumber || looped3 == roll3roundnumber){
                         console.log("random stop")
                         $("#container_3").stop();
                         looped = 0;
-                        if(roll1resultnumber == 3) {
+                        if(roll3resultnumber == 1) {
                             console.log("橘子");
-                            $("#container_3").animate({top:"-300%"},2000,);
-                        }else if(roll1resultnumber == 3){
+                            console.log(roll3resultnumber+"检查");
+                            $("#container_3").animate({top:"-300%"},2000);
+                        }else if(roll3resultnumber == 2){
                             console.log("炸弹");
+                            console.log(roll3resultnumber+"检查");
                             $("#container_3").animate({top:"-100%"},2000);
                         }else{
                             console.log("猕猴桃");
+                            console.log(roll3resultnumber+"检查");
                             $("#container_3").animate({top:"-200%"},2000);
                         };
                     }else{loop3();}
@@ -123,6 +127,7 @@ function randomize(){
     roll1resultnumber = Math.ceil(Math.random() * 3);
     roll2resultnumber = Math.ceil(Math.random() * 3);
     roll3resultnumber = Math.ceil(Math.random() * 3);
+    console.log(roll1resultnumber + "," + roll2resultnumber + "," + roll3resultnumber + "三个数字");
     loop1();
     loop2();
     loop3();
