@@ -1,0 +1,2874 @@
+body{
+    font-size: 0px;
+}
+.upper_case{
+    width:36px;
+    height:48px;
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+.lower_case{
+    width:36px;
+    height:48px;
+    display: inline-block;
+    margin-right: 12px;    
+    vertical-align: top;
+}
+.numeral{
+    width:36px;
+    height:48px;
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+.punctuation{
+    width:36px;
+    height:48px;
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+.a1,.b2,.c3,.d4,.e5,.f6,.g7,.h8{
+    font-size: 12px;
+    box-sizing: border-box;
+    display: inline-block;
+/*    background-color: grey;*/
+    width:1em;
+    height:2em;
+}
+/*A--------------*/
+.CapA .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapA .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapA .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapA .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapA .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapA .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*B--------------*/
+.CapB .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapB .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapB .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapB .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapB .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapB .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*C--------------*/
+.CapC .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapC .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapC .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapC .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapC .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapC .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*D--------------*/
+.CapD .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapD .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapD .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapD .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapD .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapD .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*E--------------*/
+.CapE .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapE .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapE .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapE .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapE .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapE .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*F--------------*/
+.CapF .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapF .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapF .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapF .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapF .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapF .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*G--------------*/
+.CapG .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapG .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapG .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapG .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapG .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapG .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*H--------------*/
+.CapH .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapH .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapH .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapH .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapH .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapH .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*I--------------*/
+.CapI .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapI .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapI .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapI .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapI .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapI .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*J--------------*/
+.CapJ .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapJ .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapJ .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapJ .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black
+}
+.CapJ .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapJ .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*K--------------*/
+.CapK .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapK .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapK .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapK .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black
+}
+.CapK .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapK .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*L--------------*/
+.CapL .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapL .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapL .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapL .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black
+}
+.CapL .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapL .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*M--------------*/
+.CapM .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapM .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapM .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapM .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black
+}
+.CapM .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapM .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*N--------------*/
+.CapN .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapN .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapN .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapN .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black
+}
+.CapN .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapN .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*O--------------*/
+.CapO .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapO .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapO .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapO .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapO .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapO .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*P--------------*/
+.CapP .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapP .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapP .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapP .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapP .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapP .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*Q--------------*/
+.CapQ .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapQ .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapQ .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapQ .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapQ .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapQ .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*R--------------*/
+.CapR .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapR .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapR .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapR .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapR .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapR .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*S--------------*/
+.CapS .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapS .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapS .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapS .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapS .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapS .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*T--------------*/
+.CapT .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapT .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapT .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapT .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapT .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapT .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*U--------------*/
+.CapU .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapU .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapU .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapU .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapU .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapU .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*V--------------*/
+.CapV .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapV .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapV .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapV .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapV .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapV .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*W--------------*/
+.CapW .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapW .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapW .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapW .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapW .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapW .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*X--------------*/
+.CapX .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapX .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapX .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapX .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapX .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapX .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*Y--------------*/
+.CapY .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.CapY .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapY .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapY .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapY .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapY .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*Z--------------*/
+.CapZ .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapZ .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapZ .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.CapZ .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.CapZ .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.CapZ .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*a--------------*/
+.LowerA .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerA .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerA .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerA .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerA .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerA .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*b--------------*/
+.LowerB .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerB .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerB .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerB .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerB .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerB .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*c--------------*/
+.LowerC .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerC .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerC .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerC .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerC .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerC .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*d--------------*/
+.LowerD .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerD .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerD .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerD .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerD .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerD .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*e--------------*/
+.LowerE .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerE .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerE .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerE .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerE .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerE .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*f--------------*/
+.LoweF .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerF .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerF .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerF .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerF .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerF .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*g--------------*/
+.LowerG .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerG .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerG .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerG .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerG .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerG .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*h--------------*/
+.LowerH .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerH .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerH .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerH .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerH .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerH .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*I--------------*/
+.LowerI{
+    width:12px;
+}
+.LowerI .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerI .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*J--------------*/
+.LowerJ{
+    width:24px;
+    height:72px;
+}
+.LowerJ .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerJ .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerJ .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerJ .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerJ .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerJ .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*k--------------*/
+.LowerK .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerK .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerK .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerK .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerK .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerK .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*l--------------*/
+.LowerL .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerL .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerL .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerL .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerL .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerL .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*m--------------*/
+.LowerM .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerM .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerM .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerM .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerM .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerM .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*n--------------*/
+.LowerN .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerN .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerN .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerN .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerN .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerN .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*o--------------*/
+.LowerO .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerO .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerO .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerO .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerO .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerO .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*p--------------*/
+.LowerP .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerP .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerP .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerP .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerP .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerP .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*q--------------*/
+.LowerQ .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerQ .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerQ .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerQ .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerQ .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerQ .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*r--------------*/
+.LowerR .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerR .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerR .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerR .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerR .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerR .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*s--------------*/
+.LowerS .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerS .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerS .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerS .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerS .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerS .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*t--------------*/
+.LowerT .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerT .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerT .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerT .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerT .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerT .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*u--------------*/
+.LowerU .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerU .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerU .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*u--------------*/
+.LowerU .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerU .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerU .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerU .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*v--------------*/
+.LowerV .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerV .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerV .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerV .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerV .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerV .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*w--------------*/
+.LowerW .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerW .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerW .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerW .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerW .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerW .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*x--------------*/
+.LowerX .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerX .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*y--------------*/
+.LowerX .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerX .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.LowerX .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*y--------------*/
+.LowerY, .LowerP, .LowerQ, .LowerG{
+    margin-top: 24px;
+}
+.LowerY .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.LowerY .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerY .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerY .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerY .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerY .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*z--------------*/
+.LowerZ .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerZ .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerZ .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerZ .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.LowerZ .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.LowerZ .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*1---------------*/
+.N1 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N1 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N1 .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N1 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N1 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N1 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*2---------------*/
+.N2 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N2 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N2 .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N2 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N2 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N2 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*3---------------*/
+.N3 .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N3 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N3 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N3 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N3 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N3 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*4---------------*/
+.N4 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N4 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N4 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N4 .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N4 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N4 .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+/*5---------------*/
+.N5 .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N5 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N5 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N5 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N5 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N5 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*6---------------*/
+.N6 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N6 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N6 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N6 .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N6 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N6 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*7---------------*/
+.N7 .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N7 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N7 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N7 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N7 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.N7 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*8---------------*/
+.N8 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.N8 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N8 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N8 .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N8 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N8 .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*9---------------*/
+.N9 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;;
+	border-bottom: 1em solid transparent;
+}
+.N9 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N9 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N9 .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N9 .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N9 .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*0---------------*/
+.N0 .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N0 .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N0 .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N0 .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.N0 .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.N0 .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*?---------------*/
+.Question .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Question .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Question .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Question .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Question .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Question .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*!---------------*/
+.Exclamation .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Exclamation .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Exclamation .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Exclamation .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Exclamation .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Exclamation .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*.---------------*/
+.Fullstop .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Fullstop .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Fullstop .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Fullstop .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Fullstop .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Fullstop .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*,---------------*/
+.Comma .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Comma .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Comma .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Comma .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.Comma .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Comma .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*;---------------*/
+.Semicolon .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Semicolon .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Semicolon .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Semicolon .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.Semicolon .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Semicolon .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*:---------------*/
+.Colon .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Colon .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Colon .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Colon .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Colon .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Colon .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*‘---------------*/
+.Left_Quot .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Left_Quot .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Left_Quot .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Left_Quot .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Left_Quot .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Left_Quot .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*“---------------*/
+.Left_Quot_Double .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Left_Quot_Double .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Left_Quot_Double .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Left_Quot_Double .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Left_Quot_Double .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Left_Quot_Double .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+/*’---------------*/
+.Right_Quot .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot .b2{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Right_Quot .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*”---------------*/
+.Right_Quot_Double .a1{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Right_Quot_Double .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot_Double .c3{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid black;
+}
+.Right_Quot_Double .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot_Double .e5{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid black;
+	border-bottom: 1em solid transparent;
+}
+.Right_Quot_Double .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid black;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*----------------*/
+.Hyphen .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Hyphen .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Hyphen .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Hyphen .d4{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Hyphen .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Hyphen .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*–---------------*/
+.Endash .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Endash .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Endash .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Endash .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Endash .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Endash .f6{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+/*—---------------*/
+.Emdash .a1{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Emdash .b2{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Emdash .c3{
+	border-top: 1em solid transparent;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid black;
+}
+.Emdash .d4{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Emdash .e5{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}
+.Emdash .f6{
+	border-top: 1em solid black;
+	border-left: 0.5em solid transparent;
+	border-right: 0.5em solid transparent;
+	border-bottom: 1em solid transparent;
+}

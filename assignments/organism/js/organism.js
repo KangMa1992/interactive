@@ -1,6 +1,6 @@
 var rabbitposition;
 var turtleposition;
-var int = setInterval(function(){getpositions();},100);
+//var int = setInterval(function(){getpositions();},100);
 var turtlemove = 1
 var rabbitmove = 1
 var time = 1
@@ -72,7 +72,10 @@ function getpositions(){
         };*/
     };
 
+/////////
+
 $(document).ready(function(){
+    setInterval(function(){getpositions();},100);
     $("#turtle").animate({left:90 + "%"},6000,"linear"); 
     $("#rabbit").animate({right:90 + "%"},2000,"linear");
     $("#switch").on("click",function(){
