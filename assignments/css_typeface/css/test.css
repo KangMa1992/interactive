@@ -1,0 +1,2877 @@
+/*A--------------*/
+.CapA .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapA .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapA .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapA .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapA .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapA .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*B--------------*/
+.CapB .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapB .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapB .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapB .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapB .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapB .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*C--------------*/
+.CapC .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapC .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapC .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapC .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*abb*/ transparent;
+}
+.CapC .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapC .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*D--------------*/
+.CapD .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapD .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapD .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapD .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapD .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapD .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*E--------------*/
+.CapE .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapE .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapE .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapE .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapE .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapE .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*F--------------*/
+.CapF .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapF .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapF .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapF .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapF .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapF .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*G--------------*/
+.CapG .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapG .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapG .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapG .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapG .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapG .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*H--------------*/
+.CapH .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapH .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapH .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapH .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapH .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapH .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*I--------------*/
+.CapI .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapI .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapI .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapI .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapI .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapI .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*J--------------*/
+.CapJ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapJ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapJ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapJ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey
+}
+.CapJ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapJ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*K--------------*/
+.CapK .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapK .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapK .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapK .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey
+}
+.CapK .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapK .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*L--------------*/
+.CapL .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapL .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapL .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapL .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey
+}
+.CapL .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapL .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*M--------------*/
+.CapM .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapM .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapM .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapM .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey
+}
+.CapM .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapM .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*N--------------*/
+.CapN .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapN .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapN .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapN .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey
+}
+.CapN .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapN .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*O--------------*/
+.CapO .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapO .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapO .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapO .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapO .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapO .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*P--------------*/
+.CapP .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapP .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapP .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapP .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapP .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapP .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*Q--------------*/
+.CapQ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapQ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapQ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapQ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapQ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapQ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*R--------------*/
+.CapR .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapR .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapR .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapR .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapR .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapR .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*S--------------*/
+.CapS .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapS .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapS .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapS .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapS .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapS .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*T--------------*/
+.CapT .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapT .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapT .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapT .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapT .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapT .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*U--------------*/
+.CapU .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapU .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapU .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapU .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapU .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapU .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*V--------------*/
+.CapV .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapV .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapV .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapV .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapV .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapV .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*W--------------*/
+.CapW .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapW .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapW .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapW .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapW .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapW .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*X--------------*/
+.CapX .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapX .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapX .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapX .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapX .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapX .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*Y--------------*/
+.CapY .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapY .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapY .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapY .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapY .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapY .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*Z--------------*/
+.CapZ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapZ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapZ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.CapZ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapZ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.CapZ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*a--------------*/
+.LowerA .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerA .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerA .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerA .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerA .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerA .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*b--------------*/
+.LowerB .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerB .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerB .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerB .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerB .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerB .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*c--------------*/
+.LowerC .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerC .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerC .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerC .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerC .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerC .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*d--------------*/
+.LowerD .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerD .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerD .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerD .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerD .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerD .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*e--------------*/
+.LowerE .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerE .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerE .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerE .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerE .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerE .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*f--------------*/
+.LowerF .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerF .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerF .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerF .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerF .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerF .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*g--------------*/
+.LowerG .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerG .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerG .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerG .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerG .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerG .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*h--------------*/
+.LowerH .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerH .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerH .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerH .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerH .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerH .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*I--------------*/
+.LowerI.dimensional3{
+    width:36px;
+}
+.LowerI .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerI .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerI .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerI .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerI .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerI .e6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*J--------------*/
+.LowerJ.dimensional3{
+    width:36px;
+    height:72px;
+}
+.LowerJ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerJ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .g7.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerJ .h8.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerJ .i9.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*k--------------*/
+.LowerK .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerK .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerK .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerK .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerK .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerK .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*l--------------*/
+.LowerL .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerL .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerL .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerL .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerL .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerL .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*m--------------*/
+.LowerM .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerM .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerM .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerM .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerM .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerM .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*n--------------*/
+.LowerN .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerN .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerN .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerN .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerN .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerN .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*o--------------*/
+.LowerO .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerO .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerO .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerO .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerO .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerO .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*p--------------*/
+.LowerP .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerP .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerP .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerP .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerP .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerP .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*q--------------*/
+.LowerQ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerQ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerQ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerQ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerQ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerQ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*r--------------*/
+.LowerR .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerR .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerR .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerR .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerR .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerR .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*s--------------*/
+.LowerS .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerS .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerS .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerS .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerS .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerS .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*t--------------*/
+.LowerT .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerT .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerT .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerT .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerT .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerT .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*u--------------*/
+.LowerU .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerU .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerU .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*u--------------*/
+.LowerU .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerU .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerU .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerU .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*v--------------*/
+.LowerV .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerV .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerV .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerV .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerV .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerV .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*w--------------*/
+.LowerW .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerW .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerW .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerW .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerW .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerW .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*x--------------*/
+.LowerX .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerX .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*y--------------*/
+.LowerX .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerX .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerX .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*y--------------*/
+.LowerY, .LowerP, .LowerQ, .LowerG.dimensional3{
+    margin-top: 24px;
+}
+.LowerY .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerY .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerY .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerY .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerY .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerY .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*z--------------*/
+.LowerZ .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerZ .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerZ .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerZ .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.LowerZ .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.LowerZ .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*1---------------*/
+.N1 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N1 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N1 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N1 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N1 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N1 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*2---------------*/
+.N2 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N2 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N2 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N2 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N2 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N2 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*3---------------*/
+.N3 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N3 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N3 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N3 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N3 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N3 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*4---------------*/
+.N4 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N4 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N4 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N4 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N4 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N4 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*5---------------*/
+.N5 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N5 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N5 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N5 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N5 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N5 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*6---------------*/
+.N6 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N6 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N6 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N6 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N6 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N6 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*7---------------*/
+.N7 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N7 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N7 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N7 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N7 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N7 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*8---------------*/
+.N8 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N8 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N8 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N8 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N8 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N8 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*9---------------*/
+.N9 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.N9 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N9 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N9 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N9 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N9 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*0---------------*/
+.N0 .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N0 .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N0 .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N0 .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N0 .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.N0 .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*?---------------*/
+.Question .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Question .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Question .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Question .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Question .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Question .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*!---------------*/
+.Exclamation .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Exclamation .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Exclamation .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Exclamation .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Exclamation .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Exclamation .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*.---------------*/
+.Fullstop .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Fullstop .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Fullstop .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Fullstop .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Fullstop .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Fullstop .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*,---------------*/
+.Comma .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Comma .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Comma .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Comma .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Comma .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Comma .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*;---------------*/
+.Semicolon .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Semicolon .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Semicolon .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Semicolon .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Semicolon .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Semicolon .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*:---------------*/
+.Colon .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Colon .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Colon .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Colon .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Colon .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Colon .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*‘---------------*/
+.Left_Quot .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Left_Quot .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Left_Quot .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Left_Quot .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Left_Quot .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Left_Quot .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*“---------------*/
+.Left_Quot_Double .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Left_Quot_Double .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Left_Quot_Double .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Left_Quot_Double .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Left_Quot_Double .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Left_Quot_Double .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+/*’---------------*/
+.Right_Quot .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot .b2.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Right_Quot .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*”---------------*/
+.Right_Quot_Double .a1.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Right_Quot_Double .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot_Double .c3.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Right_Quot_Double .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot_Double .e5.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ grey;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Right_Quot_Double .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ grey;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*----------------*/
+.Hyphen .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Hyphen .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Hyphen .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Hyphen .d4.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Hyphen .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Hyphen .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*–---------------*/
+.Endash .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Endash .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Endash .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Endash .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Endash .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Endash .f6.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+/*—---------------*/
+.Emdash .a1.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Emdash .b2.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Emdash .c3.dimensional3{
+	border-top: 1em inset/*ab*/ transparent;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ grey;
+}
+.Emdash .d4.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Emdash .e5.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
+.Emdash .f6.dimensional3{
+	border-top: 1em inset/*ab*/ grey;
+	border-left: 0.5em inset/*ab*/ transparent;
+	border-right: 0.5em inset/*ab*/ transparent;
+	border-bottom: 1em inset/*ab*/ transparent;
+}
