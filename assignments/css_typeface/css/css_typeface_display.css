@@ -4,6 +4,19 @@ body{
 /*    background-image: url(../paperback.jpg);*/
     
 }
+.unit_1{
+    width:2vw;
+    height:4vw;
+    background-color: #99aa77;
+    transform: rotateY(60deg);
+    transform-style: preserve-3d;
+}
+.unit_2{
+    width:2vw;
+    height:4vw;
+    transform: rotateY(60deg);
+    background-color: #22aa99;
+}
 .letters{
     position:relative;
     mix-blend-mode:hard-light;}

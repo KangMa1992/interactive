@@ -1,5 +1,18 @@
-var status = 0
+var status = 0;
+var documentheight;
+///////////
+function adjustbg(){
+        documentheight = $(document).height();
+        console.log(documentheight);
+        $(".background").height(documentheight);
+    setTimeout(function(){
+        documentheight = $(document).height();
+        console.log(documentheight);
+        $(".background").height(documentheight);}, 500);}
+//////////
 $(document).ready(function(){
+    adjustbg();
+
     //////
     $(function() {
   var $input = $('#text-input');
@@ -72,8 +85,9 @@ function getHTMLForCharacter(character) {
     ///////////////////////////////
 
     $(".engraveit").on("click",function(){
-        if(status == 0){
-        $("body").addClass("stone");
+        if(status == 0){  
+        adjustbg();
+        $(".background").addClass("stone");
        console.log("dimensional");  
         $(".a1").addClass("dimensional3");
         $(".b2").addClass("dimensional3");
@@ -217,4 +231,7 @@ function getHTMLForCharacter(character) {
         status = 0;};
     });
     
-})
+});
+$(window).resize(function(){
+    adjustbg();
+});
