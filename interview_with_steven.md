@@ -1,5 +1,5 @@
-#Talk with Steven Rodriguez about leftism, Jon-Kyle, philosophy study experience, Cuban poster desiner Alfredo Rostgaard, movies (especially horror movies) and the most important thing: Horchata.
-##MFA candidate, Yale School of Art.
+# Talk with Steven Rodriguez about leftism, Jon-Kyle, philosophy study experience, Cuban poster desiner Alfredo Rostgaard, movies (especially horror movies) and the most important thing: Horchata.
+## MFA candidate, Yale School of Art.
 
 **Ok, so let’s start. Um..when did you started to be interested in the leftist stuff?** 
 

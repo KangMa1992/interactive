@@ -1,0 +1,314 @@
+@keyframes duckspining{
+    from {
+    transform: rotateX(-90deg) rotateY(45deg) rotateZ(0deg) translateY(-1em);}
+    to{
+    transform: rotateX(-90deg) rotateY(405deg) rotateZ(0deg) translateY(-1em);}
+}
+
+body{
+    font-size:36px;
+    perspective: 1750px;
+}
+
+#pool{
+    position: absolute;
+    left:3em;
+    top:9em;
+    transform-style: preserve-3d;
+    transform: rotateY(25deg) rotateX(-45deg) rotateZ(-10deg);
+    width: 18em;
+    height:3em;
+}
+#front{
+    position:absolute;
+    background-color: rebeccapurple;
+    width: 18em;
+    height:3em;
+}
+#back{
+    position: absolute;
+    transform: translateZ(-9.15em);
+    background-color: burlywood;
+    width: 18em;
+    height:3em;
+}
+#left{
+    position: absolute;
+    transform: rotateY(90deg);
+    background-color: brown;
+    width:9.15em;
+    height:3em;
+    transform-origin: left;
+}
+#right{
+    position: absolute;
+    right:0;
+    transform: rotateY(-90deg);
+    background-color: palevioletred;
+    width:9.15em;
+    height:3em;
+    transform-origin: right;
+}
+#floor{
+    position: absolute;
+    transform-origin: bottom;
+    bottom: 0;
+    width: 18em;
+    height:9.15em;
+    transform: rotateX(90deg);
+    background-color: darkcyan;
+}
+#water{
+    transition:all ease 1s;
+    transform-style: preserve-3d;
+    position: absolute;
+    transform-origin: bottom;
+    bottom: 0;
+    width: 18em;
+    height:9.15em;
+    transform: rotateX(90deg)translateZ(1.5em);
+}
+#water.nowater{
+    transform: rotateX(90deg)translateZ(1px);}
+.watercolor{width:100%;
+            height:100%;
+            background-color: lightskyblue;
+            opacity: 0.5;
+}
+#ceiling{}
+#middle_wall{}
+#slope{}
+.duck{    
+    animation: duckspining 5s infinite;
+    position: absolute;
+    transform-style: preserve-3d;
+    top: 2em;
+    left: 7em;
+    width: 5em;
+    height: 3em;
+    transform: rotateX(-90deg) rotateY(45deg) rotateZ(0deg) translateY(-1em);
+}
+.duckbody{
+    transform-style: preserve-3d;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    height:50%;
+    width:90%;
+}
+.duckbody1{
+    transform-style: preserve-3d;
+    transform: translateZ(-0.35em);
+    position: absolute;
+    left: 2%;
+    top: 5%;
+    height:90%;
+    width:90%;
+}
+.duckbody2{
+    transform-style: preserve-3d;
+    transform: translateZ(0.35em);
+    position: absolute;
+    left: 2%;
+    top: 5%;
+    height:90%;
+    width:90%;
+}
+.front-top-half{
+    position: absolute;
+    width:50%;
+    height:36%;
+    top:-36%;
+    left:0;
+    border-top-left-radius: 100%;
+    background-color: yellow;
+}
+.back-top-half{
+    position: absolute;
+    width:50%;
+    height:36%;
+    top:-36%;
+    right:0;
+    border-top-right-radius: 100%;
+    background-color: yellow;
+}
+.front-half{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    height:100%;
+    width:50%;
+    background-color: yellow;
+    border-bottom-left-radius: 80%;
+}
+.back-half{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    height:100%;
+    width:50%;
+    background-color: yellow;
+    border-bottom-right-radius: 100%;
+}
+.duckhead{
+    transform-style: preserve-3d;
+    position: absolute;
+    top:0em;
+    left:0em;
+    width:1em;
+    height:1em;
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(-0.75em); 
+}
+.pentagon{
+    position: absolute;
+    background-color: aquamarine;
+    width:100%;
+    height:100%;
+    clip-path:polygon(19.0149% 0%,0% 58.153%,50% 95.0027%,100% 58.153%,80.9851% 0,19.0149% 0%);
+}
+#pent1 .pentagon{
+    background-color: yellow;}
+
+#pent2 .pentagon{
+    background-color: yellow;}
+
+#pent3 .pentagon{
+    background-color: yellow;}
+
+#pent4 .pentagon{
+    background-color: yellow;}
+
+#pent5 .pentagon{
+    background-color: yellow;}
+
+#pent6 .pentagon{
+    background-color: yellow;}
+
+#pent7 .pentagon{
+    background-color: yellow;}
+
+#pent8 .pentagon{
+    background-color: yellow;}
+
+#pent9 .pentagon{
+    background-color: yellow;}
+
+#pent10 .pentagon{
+    background-color: yellow;}
+
+#pent11 .pentagon{
+    background-color: yellow;}
+
+#pent12 .pentagon{
+    background-color: yellow;}
+#pent1{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+}
+#pent2{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: rotateZ(-108deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;
+}
+#pent3{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.0149%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;
+}
+#pent4{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.1049%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin:  80.9851% 0;
+}
+#pent5{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.0149%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;
+}
+#pent6{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    transform: translateX(-30.9851%)translateY(95.0027%) rotateZ(36deg) rotateX(63.43495deg);
+    transform-origin:  80.9851% 0;
+    width:100%;
+    height:100%;}
+#pent7{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.0149%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;
+}
+#pent8{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: rotateZ(108deg) rotateX(63.43495deg);
+    transform-origin: 19.0149% 0;
+}
+#pent9{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.0149%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;}
+#pent10{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translate(-61.9702%) rotateZ(180deg) rotateX(63.43495deg);
+    transform-origin:  80.9851% 0;
+}
+#pent11{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform: translateX(19.0149%) translateY(58.153%) rotateZ(-36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;}
+#pent12{
+    transform-style: preserve-3d;
+    position: absolute;
+    background-color:transparent;
+    width:100%;
+    height:100%;
+    transform:  translateX(-30.9806%) translateY(95.0027%) rotateZ(36deg) rotateX(63.43495deg);
+    transform-origin: 80.9851% 0;}
+@media all and (max-width:750px){
+    body{font-size: 30px}
+}
+@media all and (max-width:630px){
+    body{font-size: 24px}
+}
+@media all and (max-width:505px){
+    body{font-size: 18px}
+}
