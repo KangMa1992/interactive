@@ -1,10 +1,12 @@
 /*
+
     var aabb = new Photon.Light();
     var face1 = new Photon.Face($("#front")[0]);
     var face2 = new Photon.Face($("#back")[0]);
     var face3 = new Photon.Face($("#right")[0]);
     var face4 = new Photon.Face($("#floor")[0]);
 */
+
 /// 星期二三点班-六点半
 var critique=0
 var water=0
@@ -15,6 +17,7 @@ var day1
 
 
 $(document).ready(function(){
+  /*  face1.render(light, true);*/
     setInterval(function(){
         day1=new Date();
         day = day1.getDay();
